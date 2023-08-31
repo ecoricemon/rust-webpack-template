@@ -51,3 +51,7 @@ to WebAssembly and hooking into a Webpack build pipeline.
 * `npm run build` -- Bundle the project (in production mode).
 
 * `npm test` -- Run the project's unit tests.
+
+## Update
+
+Copy template and use it
